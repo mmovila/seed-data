@@ -21,67 +21,11 @@
 "Longitude": 37.297204
 },
 {
-"Name": "Squirrel Monkey",
-"Details": "The squirrel monkeys are the New World monkeys of the genus Saimiri. They are the only genus in the subfamily Saimirinae. The name of the genus Saimiri is of Tupi origin, and was also used as an English name by early researchers.",
-"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Saimiri_sciureus-1_Luc_Viatour.jpg/220px-Saimiri_sciureus-1_Luc_Viatour.jpg",
-"Latitude": -8.783195,
-"Longitude": -55.491477
-},
-{
-"Name": "Golden Lion Tamarin",
-"Details": "The golden lion tamarin also known as the golden marmoset, is a small New World monkey of the family Callitrichidae.",
-"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Golden_lion_tamarin_portrait3.jpg/220px-Golden_lion_tamarin_portrait3.jpg",
-"Latitude": -14.235004,
-"Longitude": -51.92528
-},
-{
-"Name": "Howler Monkey",
-"Details": "Howler monkeys are among the largest of the New World monkeys. Fifteen species are currently recognised. Previously classified in the family Cebidae, they are now placed in the family Atelidae.",
-"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Alouatta_guariba.jpg/200px-Alouatta_guariba.jpg",
-"Latitude": -8.783195,
-"Longitude": -55.491477
-},
-{
-"Name": "Japanese Macaque",
-"Details": "The Japanese macaque, is a terrestrial Old World monkey species native to Japan. They are also sometimes known as the snow monkey because they live in areas where snow covers the ground for months each",
-"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Macaca_fuscata_fuscata1.jpg/220px-Macaca_fuscata_fuscata1.jpg",
-"Latitude": 36.204824,
-"Longitude": 138.252924
-},
-{
-"Name": "Mandrill",
-"Details": "The mandrill is a primate of the Old World monkey family, closely related to the baboons and even more closely to the drill. It is found in southern Cameroon, Gabon, Equatorial Guinea, and Congo.",
-"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mandrill_at_san_francisco_zoo.jpg/220px-Mandrill_at_san_francisco_zoo.jpg",
-"Latitude": 7.369722,
-"Longitude": 12.354722
-},
-{
-"Name": "Proboscis Monkey",
-"Details": "The proboscis monkey or long-nosed monkey, known as the bekantan in Malay, is a reddish-brown arboreal Old World monkey that is endemic to the south-east Asian island of Borneo.",
-"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Proboscis_Monkey_in_Borneo.jpg/250px-Proboscis_Monkey_in_Borneo.jpg",
-"Latitude": 0.961883,
-"Longitude": 114.55485
-},
-{
 "Name": "MiMo",
 "Details": "This little trouble maker lives in Iasi with Mircea and loves traveling on adventures. He is a .NET fan !",
 "Image": "https://avatars.githubusercontent.com/u/87313735?s=400&u=b2908eb867b46cc4709608123cae7d5ccd5e1d92&v=4",
 "Latitude": 47.15709,
 "Longitude": 27.607738
-},
-{
-"Name": "Henry",
-"Details": "An adorable Monkey who is traveling the world with Heather and live tweets his adventures @MotzMonkeys. His favorite platform is iOS by far and is excited for the new iPhone Xs!",
-"Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/henry.jpg",
-"Latitude": 33.448377,
-"Longitude": -112.074037
-},
-{
-"Name": "Red-shanked douc",
-"Details": "The red-shanked douc is a species of Old World monkey, among the most colourful of all primates. The douc is an arboreal and diurnal monkey that eats and sleeps in the trees of the forest.",
-"Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/douc.jpg",
-"Latitude": 16.111648,
-"Longitude": 108.262122
 },
 {
 "Name": "Mooch",
